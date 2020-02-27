@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenAlbertoMartinezCambioDivisas", "ExamenAlbertoMartinezCambioDivisas\ExamenAlbertoMartinezCambioDivisas.csproj", "{A19A657D-D0FF-4E7A-A6A0-314090E7C291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDivisas", "TestDivisas\TestDivisas.csproj", "{44DEC16E-23C3-42C7-980B-997F5802B347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19A657D-D0FF-4E7A-A6A0-314090E7C291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19A657D-D0FF-4E7A-A6A0-314090E7C291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19A657D-D0FF-4E7A-A6A0-314090E7C291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19A657D-D0FF-4E7A-A6A0-314090E7C291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DEC16E-23C3-42C7-980B-997F5802B347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DEC16E-23C3-42C7-980B-997F5802B347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DEC16E-23C3-42C7-980B-997F5802B347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DEC16E-23C3-42C7-980B-997F5802B347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C089A23A-0934-423F-843A-B51EC3D13F9D}
+	EndGlobalSection
+EndGlobal
